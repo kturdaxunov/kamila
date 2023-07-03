@@ -1,0 +1,52 @@
+.container{
+    width: 850px;
+    margin: auto;
+    background-color: rgb(220, 210, 255);
+    padding: 20px;
+    border-radius: 20px;
+}
+body {
+    background-image: url(https://w.forfun.com/fetch/b8/b87c57b9f8d9e625ee7f66ae76420346.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.menue a{
+color:rgb(0, 0, 0);
+font-size: 24px;
+text-decoration: none;
+padding: 5px 10px;
+display: inline-block;
+}
+.menue a:hover{
+    background-color: rgb(177, 177, 255);
+    color: rgb(110, 110, 255);
+    border-radius: 20px 20px 20px 20px;
+}
+.text{
+    text-align: justify;
+}
+.link{
+    text-align: right;
+}
+.link a:hover{
+    color: rgb(55, 0, 255);
+}
+.link a{
+    color: blueviolet;
+}
+.menue{
+    background-color: rgb(190, 190, 255);
+    line-height: 50px;
+    border-radius: 20px;
+}
+.block img{
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+}
+.block{
+    clear: both;
+    margin: 50px 0;
+    height: 400px;
+}
